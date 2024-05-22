@@ -1,0 +1,61 @@
+{
+  "llm_services": [
+    {
+      "model": "llava",
+      "service": "Ollama"
+    },
+    {
+      "model": "llava:13b",
+      "service": "Ollama"
+    },
+    {
+      "model": "llava:34b",
+      "service": "Ollama"
+    },
+    {
+      "model": "mistral",
+      "service": "Ollama"
+    },
+    {
+      "model": "gpt-3.5-turbo-0301",
+      "service": "OpenAI"
+    },
+    {
+      "model": "gpt-3.5-turbo-0125",
+      "service": "OpenAI"
+    },
+    {
+      "model": "gpt-4-turbo-2024-04-09",
+      "service": "OpenAI"
+    },
+    {
+      "model": "gpt-4o",
+      "service": "OpenAI"
+    },
+    {
+      "model": "claude-3-haiku-20240307",
+      "service": "Anthropic"
+    },
+    {
+      "model": "claude-3-opus-20240229",
+      "service": "Anthropic"
+    },
+    {
+      "model": "claude-3-sonnet-20240229",
+      "service": "Anthropic"
+    },
+    {
+      "model": "gemini-pro",
+      "service": "Google"
+    },
+    {
+      "model": "gemini-1.5-pro-latest",
+      "service": "Google"
+    },
+    {
+      "model": "gemini-pro-vision",
+      "service": "Google"
+    }
+  ]
+}
+
